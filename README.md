@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
--개발자의 꿈
+- 개발자의 꿈
 
 
 <!---
