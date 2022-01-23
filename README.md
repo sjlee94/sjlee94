@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-- 개발자의 꿈
-
+- 
 
 <!---
 sjlee94/sjlee94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
