@@ -27,14 +27,13 @@
 
 <br><br>
 
-<div align="center">
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sjlee94&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjlee94&layout=compact&theme=dracula) -->
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsjlee94%2Fhit-counter&count_bg=%23C45B8E&title_bg=%23656565&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  ![followers](https://img.shields.io/github/followers/sjlee94?style=social)
-</div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sjlee94&count_private=true&show_icons=true&theme=dracula" height="183">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjlee94&layout=compact&theme=dracula" height="80">
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjlee94">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjlee94" height="80">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsjlee94%2Fhit-counter&count_bg=%23C45B8E&title_bg=%23656565&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![followers](https://img.shields.io/github/followers/sjlee94?style=social)
 
 ---
 
