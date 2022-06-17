@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 
 ---
+<!-- 전체적인 소스 -->
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md -->
 
 <h3><b>Stack 💻</b></h3>
 <!-- 언어 부분 -->
