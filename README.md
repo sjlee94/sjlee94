@@ -4,10 +4,14 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
+<!-- 상단바 꾸미기 -->
+<!-- https://github.com/kyechan99/capsule-render -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Seong-Ju%20Lee&fontSize=55&desc=Hello%20&fontAlign=77&fontAlignY=30&descAlign=5&descAlignY=10&animation=twinkling)
+
 <!-- 전체적인 소스 -->
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md -->
 
-<h3><b>Stack 💻</b></h3>
+<h3><b>Tech 💻</b></h3>
 <!-- 언어 부분 -->
 <!-- 로고 사이트 https://simpleicons.org/ -->
 <span>
