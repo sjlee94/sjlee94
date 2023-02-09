@@ -44,14 +44,14 @@
 <br>
 
 ---
-
+<!---
 <h3><b>Contact 📲</b></h3>
 
 <span>
   <a href="mailto:sjlee3416@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-03C75A?style=plastic&logo=Naver&logoColor=white"/>
 </span>
 
-<!---
+
 sjlee94/sjlee94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
